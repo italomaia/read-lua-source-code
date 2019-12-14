@@ -20,6 +20,10 @@ place. Few free to point out if something is
 mentioned without a source or send merge requests
 with more material.
 
+.. _official book: https://www.lua.org/docs.html#books
+.. _The language is simple: https://devhints.io/lua
+.. _well documented: https://www.lua.org/docs.html
+
 ------------------------
 What Do You Need To Know
 ------------------------
@@ -40,6 +44,11 @@ Online material
 - `programiz c-programming`_
 - `tutorialspoint c programming`_
 - `ucam teaching C`_
+- `ravi lua5.3 bytecode reference`_
+- `ravi lua parsing and code generation`_
+
+.. _ravi lua5.3 bytecode reference: https://the-ravi-programming-language.readthedocs.io/en/latest/lua_bytecode_reference.html
+.. _ravi lua parsing and code generation: https://the-ravi-programming-language.readthedocs.io/en/latest/lua-parser.html
 
 Books
 =====
@@ -50,6 +59,8 @@ Books
 - "C Programming: A Modern Approach" by Taschenbuch
 
 List compiled from guru99_.
+
+.. _guru99: https://www.guru99.com
 
 Articles
 ========
@@ -84,20 +95,15 @@ published a suggestion in `this reddit post`_ that I'll copy below:
 - lgc.c: incremental garbage collector. take your time.
 - Read all the other files as you see references to them. Don't let your stack get too deep though.
 
-
 Happy reading! Please, share your results and suggestions!
 
 .. _ANSI C: https://en.wikipedia.org/wiki/C_(programming_language)
 .. _coursera c-programming: https://coursera.org/specializations/c-programming
 .. _guru99 c-programming-tutorial: https://www.guru99.com/c-programming-tutorial.html
-.. _guru99: https://www.guru99.com
 .. _learn-c: https://www.learn-c.org/
 .. _Lua: https://www.lua.org/
-.. _official book: https://www.lua.org/docs.html#books
 .. _package manager: https://luarocks.org/
 .. _programiz c-programming: https://www.programiz.com/c-programming
-.. _The language is simple: https://devhints.io/lua
 .. _this reddit post: https://www.reddit.com/r/programming/comments/63hth/ask_reddit_which_oss_codebases_out_there_are_so/c02pxbp/
 .. _tutorialspoint c programming: https://www.tutorialspoint.com/cprogramming/index.htm
 .. _ucam teaching C: http://www-h.eng.cam.ac.uk/help/tpl/languages/C/teaching_C/teaching_C.html
-.. _well documented: https://www.lua.org/docs.html
